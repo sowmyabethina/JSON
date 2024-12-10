@@ -1,0 +1,7 @@
+{
+    "student":[
+        {"name":"rahul","age":22,"dob":"2002-12-08"},
+        {"name":"rajesh","age":33,"dob":"1991-08-12"},
+        {"name":"rakesh","age":36,"dob":"1988-12-08"}
+    ]
+}
